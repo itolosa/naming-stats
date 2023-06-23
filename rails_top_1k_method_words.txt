@@ -1,226 +1,226 @@
-15946 test
-6859 with
-1970 to
+15931 test
+6854 with
+1954 to
 1451 for
-1390 and
-1164 initialize
-1160 should
-1147 not
+1387 and
+1154 should
+1152 initialize
+1143 not
 1133 on
-1061 self
- 979 in
+1033 self
+ 976 in
  898 is
- 886 key
- 880 default
- 801 name
- 763 has
- 743 create
- 702 when
- 691 index
- 666 assert
- 654 options
- 641 setup
- 626 type
- 626 of
- 614 column
- 608 table
- 606 render
+ 885 key
+ 872 default
+ 786 name
+ 762 has
+ 704 create
+ 701 when
+ 664 assert
+ 652 index
+ 647 options
+ 639 setup
+ 625 type
+ 625 of
+ 613 column
+ 605 table
+ 605 render
  605 association
  595 select
- 583 time
- 554 from
+ 581 time
+ 545 from
  530 many
  519 option
- 512 string
- 511 value
- 502 a
- 500 cache
- 499 set
+ 509 value
+ 509 string
+ 498 cache
  497 no
- 495 attribute
- 488 if
- 487 find
- 485 by
- 483 method
- 473 hash
- 472 attributes
- 469 all
- 467 class
- 465 without
- 461 record
+ 497 a
+ 492 attribute
+ 487 if
+ 484 by
+ 483 set
+ 483 find
+ 477 method
+ 472 hash
+ 468 all
+ 467 attributes
+ 465 class
+ 463 without
+ 459 record
  453 through
- 433 as
  431 nested
- 427 path
- 419 block
- 406 update
+ 428 as
+ 424 path
+ 418 block
  398 scope
- 392 the
- 387 nil
+ 392 update
+ 389 the
+ 386 nil
  384 add
- 382 tag
+ 380 tag
  380 one
  379 does
- 379 change
- 366 after
  365 primary
- 364 url
+ 363 after
+ 361 url
  353 using
- 353 id
- 343 new
- 338 custom
+ 352 id
+ 337 custom
+ 336 change
  334 model
- 326 file
+ 330 new
  319 schema
- 310 field
+ 316 file
  309 array
- 302 error
- 295 action
- 292 form
+ 305 field
+ 298 error
+ 292 action
+ 291 form
  290 collection
  289 order
- 288 build
  283 template
+ 282 build
  276 query
  276 object
- 275 load
+ 273 load
  269 only
  267 connection
- 263 format
- 261 message
- 261 be
- 260 delete
- 247 teardown
+ 262 format
+ 258 delete
+ 255 message
+ 255 be
  245 validates
- 245 html
- 242 multiple
+ 245 teardown
+ 244 html
  242 content
+ 241 multiple
  241 missing
  241 database
- 240 raise
- 239 partial
- 238 keys
+ 238 raise
+ 237 partial
+ 237 keys
  235 foreign
  235 are
  233 belongs
- 231 save
- 231 empty
- 230 json
+ 230 empty
+ 229 json
  228 visit
  228 loading
  227 false
  227 dump
- 224 run
+ 225 save
  224 eager
- 224 before
- 220 cookie
- 217 date
- 216 invalid
+ 223 before
+ 220 run
+ 216 date
+ 216 cookie
+ 215 invalid
  213 returns
- 212 zone
- 210 session
+ 211 zone
+ 209 session
  206 polymorphic
  206 jobs
- 204 check
  203 values
- 202 transaction
- 202 read
+ 201 transaction
  201 remove
- 201 exists
- 201 cast
- 200 text
- 200 or
- 197 request
+ 200 read
+ 200 exists
+ 200 cast
+ 199 or
+ 198 check
  197 records
- 196 app
+ 196 request
  194 where
- 194 perform
- 194 params
- 193 controller
- 192 layout
- 191 write
- 191 validate
+ 194 text
+ 192 controller
+ 191 layout
+ 189 write
  189 relation
  189 include
- 189 destroy
- 188 route
  188 instance
+ 187 app
+ 186 route
  186 exception
  185 redirect
  185 fields
  183 join
- 181 call
- 176 config
+ 182 validate
+ 180 destroy
+ 179 call
+ 177 params
+ 176 perform
  174 an
+ 173 config
  173 columns
  172 non
  171 raises
- 169 generate
- 167 enqueued
+ 168 generate
+ 166 enqueued
  165 version
  165 datetime
  164 sql
- 163 current
+ 161 current
  159 joins
- 158 show
  156 names
  156 migration
  154 token
  154 parent
  154 existing
- 153 source
+ 152 source
  151 use
  151 skip
  151 routes
  149 named
- 149 first
  148 supports
- 147 limit
+ 147 first
  146 insert
  146 at
- 145 each
- 144 last
+ 144 limit
  144 errors
- 143 clear
- 142 local
+ 143 each
  142 get
  142 doesnt
  142 can
+ 141 local
+ 141 clear
  140 symbol
- 140 blank
+ 139 blank
  138 same
- 138 db
- 136 count
+ 136 db
+ 135 count
  135 conditions
- 134 reset
+ 134 last
+ 132 reset
  130 number
- 130 helper
  130 called
  128 migrate
+ 127 helper
  126 rails
  126 methods
  125 true
- 122 validation
- 122 performed
+ 124 show
  122 namespace
- 121 valid
+ 121 performed
+ 120 valid
  120 target
  119 xml
  119 invert
+ 118 validation
  116 data
  116 builder
  116 bang
  116 associations
- 115 store
  115 return
  115 null
  115 any
+ 114 store
  114 offset
- 114 header
  114 callbacks
- 114 callback
- 113 changed
+ 113 header
  112 ids
+ 112 changed
+ 112 callback
  111 constraints
  110 types
  110 multi
@@ -228,13 +228,12 @@
  110 constraint
  109 preload
  109 length
- 108 active
- 107 process
  107 env
- 106 serialize
+ 107 active
  106 includes
  106 fragment
- 104 log
+ 104 serialize
+ 104 process
  104 except
  103 parse
  103 integer
@@ -243,35 +242,35 @@
  102 match
  101 timestamps
  101 merge
- 100 start
- 100 respond
- 100 param
-  99 files
+  99 respond
   98 precision
   97 strict
-  97 hello
-  97 full
+  97 start
+  97 files
   97 failure
   96 uses
   96 proc
-  96 environment
+  96 param
+  96 hello
   96 changes
   95 safe
   95 parameters
+  95 environment
+  94 log
   94 given
   93 quote
+  93 full
   93 fetch
-  93 engine
   92 rollback
   92 foo
-  92 different
+  92 engine
   91 size
   91 resource
   91 queries
+  91 different
   91 composite
   90 root
   90 level
-  90 extract
   90 disabled
   90 child
   89 post
@@ -287,145 +286,146 @@
   87 lock
   87 job
   87 inspect
+  87 extract
   87 entry
   87 encrypted
   86 range
   86 queue
   86 inverse
-  86 group
-  86 comment
   86 button
-  85 than
   85 response
   85 pool
   85 indifferent
+  84 than
   84 rename
-  84 counter
+  84 group
   83 view
   83 explicit
+  83 counter
   83 arguments
   82 scoped
   82 exist
   82 day
+  82 comment
   81 month
-  81 link
   81 escape
   81 associated
-  80 up
   80 touch
+  80 link
   79 via
-  79 send
-  78 two
-  78 prefix
+  78 send
   78 override
-  78 bind
+  77 two
+  77 prefix
   77 deep
   77 commit
+  77 bind
   76 expires
-  76 defaults
   75 unique
   75 references
-  75 raw
-  75 persisted
-  75 paths
   75 dup
-  74 timestamp
+  75 defaults
+  74 up
   74 status
+  74 raw
+  74 persisted
+  74 paths
   74 host
   74 disable
   74 access
   73 sti
   73 fixture
+  72 timestamp
   72 namespaced
   71 exec
   71 distinct
-  71 context
   70 strings
   70 encoding
-  70 drop
   70 alias
   69 utc
   69 serialized
-  69 list
-  69 headers
-  69 copy
+  69 drop
+  69 context
   69 args
+  68 list
   68 javascript
+  68 headers
   68 handle
-  68 assignment
   67 migrations
-  67 email
+  67 copy
   67 base
+  67 assignment
   66 setting
   66 other
   66 command
   65 translate
   64 single
-  64 regexp
   64 cookies
   63 while
-  63 module
+  63 regexp
   63 logger
   63 label
   63 case
   63 batches
-  62 stream
   62 preserves
-  62 implicit
   62 enqueue
   62 creates
   62 connections
-  61 variant
-  61 user
+  61 stream
+  61 module
   61 lookup
+  61 implicit
   61 helpers
   61 classes
   60 world
+  60 variant
   60 timezone
   60 statement
   60 quoted
   60 metadata
   60 hidden
   60 filter
-  60 created
   59 utf
   59 signed
   59 passed
-  59 normalize
+  59 created
   58 yaml
   58 structure
+  58 normalize
   58 inherited
   58 execute
-  58 deserialize
+  58 email
   57 pluck
   57 logging
-  57 like
   57 have
   57 handler
   57 fixtures
-  56 sanitize
+  57 deserialize
   56 reload
   56 readonly
   56 private
   56 policy
+  56 like
   56 flash
   56 enum
   56 assign
+  55 sanitize
   55 s
   55 inline
   55 dont
   55 back
-  55 arel
   55 added
   54 writes
-  54 upload
   54 comparison
-  53 truncate
+  54 arel
+  53 user
+  53 upload
   53 now
   53 inheritance
   53 code
   53 close
   53 asset
+  52 truncate
   52 included
   52 finding
   52 definition
@@ -435,24 +435,22 @@
   51 remote
   51 node
   51 erb
-  51 conditional
   50 zero
   50 too
   50 specified
   50 reference
   50 once
-  50 invoke
   50 i
   50 extension
   50 equal
   50 encode
-  50 emails
-  50 down
   50 digest
+  50 conditional
   49 within
   49 week
   49 original
   49 modified
+  49 invoke
   49 human
   49 async
   48 updated
@@ -462,13 +460,10 @@
   48 required
   48 having
   48 extra
-  48 ensure
+  48 emails
   48 domain
-  48 do
   48 dependencies
-  48 caching
   48 attachment
-  48 around
   48 api
   47 upsert
   47 uniqueness
@@ -480,33 +475,35 @@
   47 inside
   47 image
   47 ignore
+  47 ensure
   47 dynamic
+  47 do
   47 dirty
   47 dependency
   47 define
+  47 caching
   47 binary
   47 auto
+  47 around
   46 thread
   46 tables
-  46 subscribed
   46 seconds
   46 prompt
-  46 mailer
   46 locals
   46 increment
   46 head
   46 habtm
-  46 authenticate
   45 work
   45 slash
   45 simple
   45 register
   45 pk
   45 make
+  45 mailer
   45 gem
+  45 down
   45 cached
   45 actions
-  44 welcome
   44 state
   44 scaffold
   44 resources
@@ -539,9 +536,6 @@
   41 sets
   41 present
   41 marshal
-  41 locale
-  41 legacy
-  41 internal
   41 frozen
   41 enabled
   40 translated
@@ -549,42 +543,45 @@
   40 scopes
   40 plural
   40 numeric
-  40 messages
+  40 legacy
   40 lambda
-  40 fallback
   40 css
   40 correct
   40 convert
   40 compare
+  40 authenticate
   40 allowed
   39 transactions
-  39 ruby
   39 prepare
   39 pass
   39 modify
+  39 messages
+  39 internal
   39 global
   39 generates
   39 fs
   39 formatted
-  39 filename
+  39 fallback
   39 double
   39 dependent
   39 delegate
   39 clause
   39 binds
   38 unless
-  38 since
+  38 ruby
   38 optional
   38 mountable
   38 models
   38 merging
   38 klass
+  38 filename
   38 eql
   37 unknown
   37 tags
+  37 subscribed
+  37 since
   37 serializer
   37 saving
-  37 saved
   37 routing
   37 resolve
   37 out
@@ -593,12 +590,10 @@
   37 gemfile
   37 calls
   37 autosave
-  36 verify
   36 try
   36 subscribe
   36 subclass
   36 singular
-  36 public
   36 payload
   36 objects
   36 next
@@ -614,10 +609,12 @@
   36 delegation
   36 csrf
   36 aliased
-  35 wrap
   35 words
+  35 verify
   35 sent
   35 scoping
+  35 saved
+  35 public
   35 passing
   35 none
   35 http
@@ -625,8 +622,8 @@
   35 dummy
   35 charset
   35 adds
+  34 wrap
   34 uuid
-  34 title
   34 suffix
   34 selected
   34 security
@@ -635,47 +632,46 @@
   34 port
   34 plain
   34 hour
-  34 hook
   34 disconnect
   34 decimal
-  34 control
   34 chain
   34 broadcast
   34 available
   34 automatically
-  34 area
   33 symbolize
-  33 some
   33 rescue
   33 protocol
   33 max
+  33 hook
   33 even
   33 destroyed
   33 credentials
+  33 control
   33 calling
   33 but
-  33 box
+  33 area
   32 wrong
-  32 system
   32 maximum
-  32 matches
+  32 locale
   32 later
   32 float
   32 expression
-  32 event
   32 equality
+  32 box
   32 basic
   32 arg
   32 append
-  32 accept
   31 warnings
+  31 title
   31 take
   31 result
   31 preserve
   31 permitted
   31 old
+  31 matches
   31 mail
   31 exclusive
+  31 event
   31 element
   31 dst
   31 deleting
@@ -683,6 +679,7 @@
   31 creating
   31 apply
   31 accessor
+  31 accept
   30 warning
   30 used
   30 twice
@@ -698,12 +695,13 @@
   30 client
   30 channel
   30 authenticity
+  29 welcome
   29 wait
   29 uri
   29 touching
   29 top
   29 syntax
-  29 server
+  29 some
   29 separator
   29 responds
   29 rake
@@ -711,39 +709,38 @@
   29 proper
   29 mysql
   29 migrator
-  29 location
-  29 info
   29 groups
   29 finish
-  29 deprecated
-  29 deliver
-  29 connect
   29 buffer
   29 bad
   29 already
   29 accepts
   29 abstract
   28 under
+  28 system
   28 symbols
   28 shorthand
+  28 server
   28 results
   28 respects
   28 rack
-  28 more
   28 minute
   28 long
+  28 location
   28 instrument
   28 input
+  28 info
   28 inclusion
   28 identifier
   28 hints
   28 help
   28 generated
-  28 found
   28 finder
   28 etag
+  28 deprecated
   28 correctly
   28 connected
+  28 connect
   28 behavior
   28 ago
   27 was
@@ -751,12 +748,13 @@
   27 static
   27 round
   27 parts
+  27 more
   27 middleware
   27 keeps
   27 handles
   27 generators
+  27 found
   27 enable
-  27 edit
   27 both
   27 blocks
   27 blob
@@ -796,22 +794,19 @@
   25 member
   25 ivars
   25 existent
+  25 deliver
   25 construct
   25 configurations
   25 compile
   25 comments
   25 bytes
   25 between
-  25 bar
   25 attachments
   25 alter
-  24 validations
   24 storage
   24 standard
   24 stale
-  24 require
   24 protection
-  24 print
   24 prev
   24 plugin
   24 page
@@ -819,18 +814,14 @@
   24 extensions
   24 exceptions
   24 entries
-  24 encryption
   24 dumped
-  24 download
   24 dom
   24 deferrable
   24 cycle
   24 conversion
-  24 camelize
-  24 attr
+  24 bar
   24 aliases
   24 aggregate
-  24 acts
   23 writing
   23 unsubscribe
   23 unsafe
@@ -845,6 +836,7 @@
   23 quotes
   23 properly
   23 priority
+  23 print
   23 preview
   23 preloading
   23 part
@@ -855,19 +847,20 @@
   23 future
   23 flush
   23 filtered
+  23 encryption
   23 encrypt
   23 daylight
   23 configured
   23 capture
-  23 calculate
-  23 attachable
+  23 camelize
+  23 attr
   23 assigning
   23 always
   22 zones
   22 yield
-  22 wrapped
   22 will
   22 variables
+  22 validations
   22 stylesheet
   22 sqlite
   22 slice
@@ -888,33 +881,34 @@
   22 mapping
   22 joined
   22 flags
-  22 determine
+  22 download
   22 decrypt
   22 containing
   22 confirmation
   22 color
   22 checked
   22 cant
+  22 calculate
   22 bound
+  22 attachable
   22 assigns
   22 another
+  21 wrapped
   21 support
   21 specific
   21 savings
-  21 rich
+  21 require
   21 recognizes
   21 plus
   21 phone
   21 per
-  21 initializer
   21 implicitly
   21 generation
   21 function
+  21 edit
   21 dot
   21 development
   21 decode
-  21 debug
-  21 cleanup
   21 chars
   21 ary
   21 advisory
@@ -925,10 +919,10 @@
   20 special
   20 skipped
   20 section
+  20 rich
   20 revoke
   20 returned
   20 recognize
-  20 reader
   20 protected
   20 over
   20 mutate
@@ -944,17 +938,19 @@
   20 drops
   20 document
   20 directives
+  20 determine
+  20 debug
   20 configure
   20 concat
   20 collect
   20 clears
+  20 cleanup
   20 changing
-  20 cannot
   20 cable
   20 associate
   20 address
+  20 acts
   19 writer
-  19 tld
   19 subquery
   19 still
   19 serializable
@@ -962,11 +958,10 @@
   19 savepoint
   19 row
   19 rfc
-  19 report
   19 rendered
+  19 reader
   19 purge
   19 prepared
-  19 person
   19 password
   19 optimizer
   19 nonce
@@ -974,7 +969,6 @@
   19 mark
   19 manual
   19 locales
-  19 greater
   19 forgery
   19 filters
   19 fails
@@ -991,10 +985,16 @@
   18 underscore
   18 trip
   18 tomorrow
+  18 tld
   18 subclasses
   18 strip
   18 shard
   18 roundtrip
   18 retry
-  18 receive
   18 put
+  18 prepended
+  18 levels
+  18 leak
+  18 keep
+  18 its
+  18 greater
