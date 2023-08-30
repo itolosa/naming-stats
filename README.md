@@ -1,6 +1,8 @@
-# Naming Stats
+# Pareto on naming
 
-Disclaimer: This is not a formal scientific research, it's just an attempt to obtain an heuristic on the class names.
+<sup>Disclaimer: This is not a formal scientific research, it's just an attempt to obtain an heuristic on the class names.</sup>
+
+### Do pareto rule (80/20) applies to naming?
 
 ### Objective
 Determine if words used for naming classes in codebase follows the pareto rule (80/20)
