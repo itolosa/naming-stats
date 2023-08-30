@@ -1,6 +1,6 @@
 # Pareto on naming
 
-<sup>Disclaimer: This is not a formal scientific research, it's just an attempt to obtain an heuristic on the class names.</sup>
+<sup>Disclaimer: This is not a formal scientific research, it's just an attempt to obtain an heuristic of the class names.</sup>
 
 ### Do pareto rule (80/20) applies to naming?
 
