@@ -35,7 +35,7 @@ We can obtain the following result:
 ### Conclusions
 
 * 20% of the words appears at least 80% of the times in class names.
-* Then pareto rules holds for words used in class names used for this analysis
+* Then pareto rules holds for words used in class names (for this analysis)
 
 ### Apendix
 
