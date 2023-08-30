@@ -4,6 +4,8 @@
 
 ### Do pareto rule (80/20) applies to naming?
 
+tl;dr: It seems to.
+
 ### Objective
 Determine if words used for naming classes in codebase follows the pareto rule (80/20)
 
